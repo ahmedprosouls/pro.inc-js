@@ -1,0 +1,1 @@
+{"version":3,"file":"AudioBubble.d.ts","sourceRoot":"","sources":["../../../../../../src/features/blocks/bubbles/audio/components/AudioBubble.tsx"],"names":[],"mappings":"AAEA,OAAO,KAAK,EAAE,kBAAkB,EAAE,MAAM,qBAAqB,CAAA;AAG7D,KAAK,KAAK,GAAG;IACX,OAAO,EAAE,kBAAkB,CAAA;IAC3B,eAAe,EAAE,CAAC,SAAS,CAAC,EAAE,MAAM,KAAK,IAAI,CAAA;CAC9C,CAAA;AAOD,eAAO,MAAM,WAAW,UAAW,KAAK,mCAoDvC,CAAA"}

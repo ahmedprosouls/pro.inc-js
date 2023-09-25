@@ -41,5 +41,17 @@
     "rollup-plugin-typescript-paths": "1.4.0",
     "tailwindcss": "3.3.3",
     "typescript": "5.1.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedprosouls/pro.inc-js.git"
+  },
+  "keywords": [
+    "probot"
+  ],
+  "author": "ahmed",
+  "bugs": {
+    "url": "https://github.com/ahmedprosouls/pro.inc-js/issues"
+  },
+  "homepage": "https://github.com/ahmedprosouls/pro.inc-js#readme"
 }
